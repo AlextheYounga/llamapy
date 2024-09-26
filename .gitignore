@@ -1,0 +1,10 @@
+.env
+env
+node_modules
+.DS_Store
+build
+dist
+llamanet.egg-info
+__pycache__
+env
+__deprecated__

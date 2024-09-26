@@ -1,0 +1,6 @@
+requests
+fake-useragent
+gputil
+openai
+tqdm
+pytest
