@@ -3,7 +3,6 @@ import requests
 import re
 import os
 import GPUtil
-from fake_useragent import UserAgent
 from pathlib import Path
 import tqdm
 import zipfile
